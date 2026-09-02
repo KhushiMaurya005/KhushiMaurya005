@@ -1,4 +1,4 @@
-[README (1).md](https://github.com/user-attachments/files/31735485/README.1.md)
+[README (1).md](https://github.com/user-attachments/files/31735541/README.1.md)
 <h1 align="center">Hi 👋, I'm Khushi Maurya</h1>
 <h3 align="center">Aspiring MERN Stack Developer | Final Year CSE Student</h3>
 
