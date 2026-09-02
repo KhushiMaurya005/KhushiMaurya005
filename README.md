@@ -1,6 +1,6 @@
 [README (1).md](https://github.com/user-attachments/files/31735541/README.1.md)
 <h1 align="center">Hi 👋, I'm Khushi Maurya</h1>
-<h3 align="center">Aspiring MERN Stack Developer | Final Year CSE Student</h3>
+<h3 align="center">MERN Stack Developer | Final Year CSE Student</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KhushiMaurya005&label=Profile+views&color=0e75b6&style=flat" alt="KhushiMaurya005" />
